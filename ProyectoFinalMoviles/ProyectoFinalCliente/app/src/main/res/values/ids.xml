@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewOrderDate" type="id" />
+    <item name="textViewOrderTotal" type="id" />
+    <item name="textViewOrderStatus" type="id" />
+</resources>

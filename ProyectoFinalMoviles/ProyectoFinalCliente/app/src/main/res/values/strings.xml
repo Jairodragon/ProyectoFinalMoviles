@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Proyecto Final Cliente</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_restaurant_list">RestaurantListActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="product_image">Imagen del producto</string>
+    <string name="product_name_placeholder">Nombre del producto</string>
+    <string name="product_description_placeholder">Descripción del producto</string>
+    <string name="product_price_placeholder">$0.00</string>
+    <string name="add_to_cart">Agregar al carrito</string>
+    <string name="order_status">Estado: %1$s</string>
+    <string name="configurar">Configurar</string>
+    <string name="calcular">Calcular</string>
+    <string name="manejar">Manejar</string>
+    <string name="botón">Botón</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="total_placeholder">Total: $%1$.2f</string>
+
+
+</resources>
